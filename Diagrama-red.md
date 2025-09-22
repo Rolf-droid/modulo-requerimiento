@@ -130,13 +130,3 @@ graph TD
 - **Load Balancing**: Distribución de carga
 - **Health Checks**: Monitoreo continuo
 
-### Base de Datos
-- **Alta Disponibilidad**: Cluster replica set
-- **SSL/TLS**: Conexiones encriptadas
-- **Backup Automático**: Respaldo continuo
-
----
-
-**Última actualización**: Diciembre 2024  
-**Tipo de red**: Híbrida (Cloud + Edge)  
-**Seguridad**: End-to-end encryption
