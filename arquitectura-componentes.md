@@ -89,9 +89,6 @@ graph LR
 - **API Principal**: Node.js con Express para operaciones principales
 - **Despliegue**: Contenedor Docker en Google Cloud Platform
 
-### Backend Operaciones (Railway)
-- **API Operaciones**: Node.js con GraphQL para operaciones específicas
-- **Despliegue**: Contenedor Docker en Railway
 
 ### Base de Datos (AWS)
 - **MongoDB Atlas**: Base de datos principal que almacena todos los datos de la aplicación
