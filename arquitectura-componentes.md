@@ -82,15 +82,15 @@ graph LR
 
 ## Descripción de Componentes
 
-### Frontend (Vercel)
+### Frontend 
 - **Kapo Main**: Aplicación principal desarrollada en React
 
-### Backend Principal (GCP)
+### Backend Principal 
 - **API Principal**: Node.js con Express para operaciones principales
 - **Despliegue**: Contenedor Docker en Google Cloud Platform
 
 
-### Base de Datos (AWS)
+### Base de Datos 
 - **MongoDB Atlas**: Base de datos principal que almacena todos los datos de la aplicación
 
 ## Flujo de Datos
